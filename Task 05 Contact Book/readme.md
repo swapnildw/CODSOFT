@@ -6,7 +6,7 @@
 
 CMS is a simple python based Contact Management System made using the tkinter library. It follows the principles of MVC to bring out the best user experience. 
 
-![Alt text](app.png?raw=true "Contact Management System")
+
 
 ## Requirements
 
